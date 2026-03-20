@@ -83,7 +83,7 @@ perguntas = [
 # TELA INICIAL
 # ---------------------------
 if st.session_state.pagina == "inicio":
-    st.title("INSERIR TÍTULO AQUI")
+    st.title("Quiz interativo em python sobre Mary Jackson! 🚀")
     st.write("Desafie sua mente com a história de Mary Jackson!")
 
     if st.button("Iniciar Quiz"):
